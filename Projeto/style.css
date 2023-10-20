@@ -1,5 +1,5 @@
-.principal{
-   overflow: auto; /* Adiciona uma barra de rolagem se o conteúdo exceder as dimensões especificadas */
+.principal {
+  overflow: auto; /* Adiciona uma barra de rolagem se o conteúdo exceder as dimensões especificadas */
 }
 
 .container-1 {
@@ -50,46 +50,37 @@ p {
 .container-3 h1 {
   font-size: 40px;
 }
-.formulario{
+.formulario {
   display: flex;
   width: 1440px;
   height: 550px;
   background-color: #303030;
   flex-direction: column;
   align-items: center;
-
-  
-
-
 }
-#titulo-formulario{
-   align-items: center;
-   font-size: 32px;
-   color:#FFFFFF;
-   font-size: 32px;
-   font-family: inter;
-
-
+#titulo-formulario {
+  align-items: center;
+  font-size: 32px;
+  color: #ffffff;
+  font-size: 32px;
+  font-family: inter;
 }
-.form{
+.form {
   border-radius: 10px;
   height: 50px;
   width: 450px;
   margin: 20px;
-  background: #FFFFFF;
+  background: #ffffff;
   font-size: 20px;
   padding: 10px;
-
- 
 }
-#botao{
+#botao {
   height: 65px;
   width: 250px;
-  background-color: #C07212;
+  background-color: #c07212;
   border-radius: 10px;
   font-size: 25px;
   color: #ffffff;
   margin-left: 150px;
   margin-top: 25px;
 }
-
